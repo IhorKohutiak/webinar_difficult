@@ -1,5 +1,5 @@
-# job build image and push to ghcr.io
-name: Build and Push Docker Image
+# cicd job build docker image and push to ghcr.io
+name: cicd
 on:
   push:
     branches: [ main ]
