@@ -1,5 +1,5 @@
 # cicd job build docker image and push to ghcr.io
-name: cicd
+name: cicd_webinardifficult
 
 on:
   push:
